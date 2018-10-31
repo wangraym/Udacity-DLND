@@ -1,0 +1,2 @@
+model_checkpoint_path: "dlnd_face_gen.ckpt"
+all_model_checkpoint_paths: "dlnd_face_gen.ckpt"
